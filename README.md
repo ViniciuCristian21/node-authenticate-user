@@ -1,5 +1,7 @@
-<h1 style="text-align: center">Authenticate User</h1>
-<h3 style="text-align: center">Autenticação com JWT</h3>
+<div align="center">
+    <h1>Authenticate User</h1>
+    <h3>Autenticação com JWT</h3>
+</div>
 
 ## Bibliotecas e Tecnologias usadas
 - Typescript
